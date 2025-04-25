@@ -32,8 +32,8 @@
 ## 🤝 Let’s Connect
 
 📫 Email: sweetyseelam2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)  
-🌐 Portfolio: *Coming soon...*
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)  
+🌐 Portfolio: https://sweetyseelam2.github.io/SweetySeelam.github.io/
 ---
 ✨ *“Great data tells a story. I make sure it’s heard.”*
 
