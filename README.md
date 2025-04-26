@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sweety Seelam
 
-🎯 *Data Analyst/Business Analyst | Machine Learning Enthusiast | Storyteller with SQL + Python + Dashboards*
+🎯 *Business Analyst | Machine Learning Enthusiast | Storyteller with SQL + Python + Dashboards*
 ---
 🚀 I’m an experienced Business Data Analyst who has helped Amazon teams make millions in revenue-impacting decisions through data. I specialize in customer analytics, machine learning, and data visualization — creating solutions that bridge business and technology.
 
