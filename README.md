@@ -15,7 +15,7 @@
 > ✅ Segments customers using Age, Income, Spending Score  
 > 📁 [GitHub Repo](https://github.com/SweetySeelam2/customer-segmentation-ML)
 
-### 💬 Amazon Review Sentiment Analysis *(Coming Soon)*
+### 💬 IMDb Review Sentiment Analysis
 > NLP + Topic Modeling on customer feedback  
 > Streamlit + Power BI for interactive storytelling
 
