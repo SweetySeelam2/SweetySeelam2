@@ -5,8 +5,8 @@
 🚀 I’m an experienced Business Data Analyst who has helped Amazon teams make millions in revenue-impacting decisions through data. I specialize in customer analytics, machine learning, and data visualization — creating solutions that bridge business and technology.
 
 🌟 I’m currently building real-time apps and dashboards using:
-- `Python`, `Machine Learning`, `Streamlit`, `Tableau`, `Power BI`, `SQl`, `R`, `Deep Learning`, `NLP`
-- Customer Segmentation • A/B Testing • Predictive Modeling • Sentiment Analysis
+ • Python • Machine Learning • Streamlit • Tableau • Power BI • SQL • R • Deep Learning • NLP
+ • Customer Segmentation • A/B Testing • Predictive Modeling • Sentiment Analysis
 ---
 ## 🔥 Featured Projects
 
