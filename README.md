@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Sweety Seelam
 
-🎯 *Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards*
+*Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SweetySeelam2&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/SweetySeelam2?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/SweetySeelam2?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
