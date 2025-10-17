@@ -1,20 +1,17 @@
 <!-- 🎯 CENTERED HERO BANNER -->
-<h1 align="center">Sweety Seelam</h1>
-<h3 align="center">Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist</h3>
+<h1 align="center">👋 Hi, I'm Sweety Seelam</h1>
+<h3 align="center">Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards</h3>
 
 <p align="center">
+  <a href="sweetyseelam2@gmail.com">📫 Email</a> •
   <a href="https://sweetyseelam2.github.io/SweetySeelam.github.io/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sweetyrao670/">💼 LinkedIn</a> •
+  <a href=" https://github.com/SweetySeelam2">💻 Github</a> •
   <a href="https://huggingface.co/sweetyseelam">🤗 Hugging Face</a> •
   <a href="https://medium.com/@sweetyseelam">📰 Medium</a> •
   <a href="https://www.kaggle.com/sweetyseelam">📊 Kaggle</a>
 </p>
 
----
-
-# 👋 Hi, I'm Sweety Seelam  
-
-*Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards*
 
 ![GitHub Stars](https://img.shields.io/github/stars/SweetySeelam2?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
