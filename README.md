@@ -1,4 +1,18 @@
-# 👋 Hi, I'm Sweety Seelam
+<!-- 🎯 CENTERED HERO BANNER -->
+<h1 align="center">Sweety Seelam</h1>
+<h3 align="center">Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist</h3>
+
+<p align="center">
+  <a href="https://sweetyseelam2.github.io/SweetySeelam.github.io/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sweetyrao670/">💼 LinkedIn</a> •
+  <a href="https://huggingface.co/sweetyseelam">🤗 Hugging Face</a> •
+  <a href="https://medium.com/@sweetyseelam">📰 Medium</a> •
+  <a href="https://www.kaggle.com/sweetyseelam">📊 Kaggle</a>
+</p>
+
+---
+
+# 👋 Hi, I'm Sweety Seelam  
 
 *Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards*
 
@@ -9,7 +23,7 @@
 🚀 I’m an experienced **Business Data Analyst** who has helped **Amazon** teams make multi-million-dollar, data-driven decisions.  
 I specialize in **customer analytics, machine learning, and data visualization**, building real-world AI solutions that bridge the gap between business and technology.
 
-🌟 Currently building real-time data apps and dashboards using:                                                                                      
+🌟 Currently building real-time data apps and dashboards using:  
 **AI • LLM • Python • Machine Learning • Streamlit • FastAPI • Tableau • Power BI • SQL • R • Deep Learning • NLP • A/B Testing • Predictive Modeling • Causal Inference**
 
 ---
@@ -50,7 +64,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 ---
 
 ### 🧠 [LLM-AutoPitchGPT](https://github.com/SweetySeelam2/LLM_AutoPitchGPT)
-> Generates **5,000+ investor-ready startup pitches** using GPT models.  
+> Generates **5 000+ investor-ready startup pitches** using GPT models.  
 > Automates storytelling, valuation, and investor personalization in seconds.
 
 ---
@@ -97,27 +111,21 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🏆 Hackathons & Recognitions
 
-- 🥇 **Devpost Competitor** – Medi-Hack, GKE, Tableau Next Hackathons                                               
-- 🧠 **Kaggle Competitor** – ARC Prize, Trojan Horse Hunt                                                                                                
-- 🌐 Featured on **Streamlit, Hugging Face, and Power BI Community**  
+- 🥇 **Devpost Competitor** – Medi-Hack, GKE, Tableau Next Hackathons  
+- 🧠 **Kaggle Competitor** – ARC Prize, Trojan Horse Hunt  
+- 🌐 Featured on **Streamlit, Hugging Face, and Power BI Community**
 
 ---
 
 ## 🤝 Let’s Connect
 
 📫 **Email:** [sweetyseelam2@gmail.com](mailto:sweetyseelam2@gmail.com)  
-
 🔗 **LinkedIn:** [linkedin.com/in/sweetyrao670](https://www.linkedin.com/in/sweetyrao670/)  
-
 🌐 **Portfolio:** [sweetyseelam2.github.io/SweetySeelam.github.io](https://sweetyseelam2.github.io/SweetySeelam.github.io/)  
-
-🔗 **Medium:** [medium.com/@sweetyseelam](https://medium.com/@sweetyseelam)
-
-🔗 **Github:** [github.com/SweetySeelam2](https://github.com/SweetySeelam2)
-
+📰 **Medium:** [medium.com/@sweetyseelam](https://medium.com/@sweetyseelam)  
+💻 **GitHub:** [github.com/SweetySeelam2](https://github.com/SweetySeelam2)  
 📊 **Kaggle:** [kaggle.com/sweetyseelam](https://www.kaggle.com/sweetyseelam)  
-
-🧠 **Hugging Face:** [huggingface.co/sweetyseelam](https://huggingface.co/sweetyseelam)
+🤗 **Hugging Face:** [huggingface.co/sweetyseelam](https://huggingface.co/sweetyseelam)
 
 ---
 
@@ -138,7 +146,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🪙 License
 
-**MIT License © 2025 Sweety Seelam**                                                                                                                
+**MIT License © 2025 Sweety Seelam**  
 📘 *All proprietary assets are protected & credited accordingly.*
 
 ---
