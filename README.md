@@ -6,7 +6,7 @@
   <a href="sweetyseelam2@gmail.com">📫 Email</a> •
   <a href="https://sweetyseelam2.github.io/SweetySeelam.github.io/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sweetyrao670/">💼 LinkedIn</a> •
-  <a href=" https://github.com/SweetySeelam2">💻 Github</a> •
+  <a href="https://github.com/SweetySeelam2">💻 Github</a> •
   <a href="https://huggingface.co/sweetyseelam">🤗 Hugging Face</a> •
   <a href="https://medium.com/@sweetyseelam">📰 Medium</a> •
   <a href="https://www.kaggle.com/sweetyseelam">📊 Kaggle</a>
