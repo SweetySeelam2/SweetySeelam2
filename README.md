@@ -30,7 +30,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ---
 
-### 🔒 [Trojan Horse Hunt – Kaggle Competition](https://huggingface.co/sweetyseelam/trojan-hunt-models)
+### 🔒 [Trojan Horse Hunt – Kaggle Competition](https://github.com/SweetySeelam2/Trojan-Horse-Hunt-Kaggle-Competition)
 > Detects **poisoned AI models** by analyzing neural weight distributions.  
 > Uses clean vs. backdoored model contrastive signatures.  
 > 📊 Focus: Model safety, interpretability, and robust AI security.
@@ -67,7 +67,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ---
 
-### 🛍️ [Customer Segmentation App](https://customer-segmentation-ml.streamlit.app/)
+### 🛍️ [Customer Segmentation App](https://github.com/SweetySeelam2/customer-segmentation-ML)
 > Real-time **K-Means clustering** Streamlit app for e-commerce analytics.  
 > Segments customers by **Age, Income, and Spending Score**.  
 > 📁 [GitHub Repo](https://github.com/SweetySeelam2/customer-segmentation-ML)
@@ -80,7 +80,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ---
 
-### 📈 [Predictive Sales Forecasting](https://github.com/SweetySeelam2/Predictive_Sales_ML-Streamlit)
+### 📈 [Predictive Sales Forecasting](https://github.com/SweetySeelam2/Netflix_Revenue_Predictor)
 > Forecasts future revenue using **Random Forest & XGBoost** with automated feature engineering.  
 > Deployed via Streamlit app and linked to Power BI dashboards.
 
