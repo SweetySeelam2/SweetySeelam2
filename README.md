@@ -9,9 +9,9 @@
 ---
 
 🚀 I’m an experienced **Business Data Analyst** who has helped **Amazon** teams make multi-million-dollar, data-driven decisions.  
-I specialize in **customer analytics, machine learning, and data visualization**, building real-world AI solutions that bridge business and technology.
+I specialize in **customer analytics, machine learning, and data visualization**, building real-world AI solutions that bridge the gap between business and technology.
 
-🌟 Currently building real-time data apps and dashboards using:
+🌟 Currently building real-time data apps and dashboards using:                                                                                      
 **AI • LLM • Python • Machine Learning • Streamlit • FastAPI • Tableau • Power BI • SQL • R • Deep Learning • NLP • A/B Testing • Predictive Modeling • Causal Inference**
 
 ---
@@ -108,11 +108,17 @@ I specialize in **customer analytics, machine learning, and data visualization**
 ## 🤝 Let’s Connect
 
 📫 **Email:** [sweetyseelam2@gmail.com](mailto:sweetyseelam2@gmail.com)  
+
 🔗 **LinkedIn:** [linkedin.com/in/sweetyrao670](https://www.linkedin.com/in/sweetyrao670/)  
+
 🌐 **Portfolio:** [sweetyseelam2.github.io/SweetySeelam.github.io](https://sweetyseelam2.github.io/SweetySeelam.github.io/)  
+
 🔗 **Medium:** [medium.com/@sweetyseelam](https://medium.com/@sweetyseelam)
+
 🔗 **Github:** [github.com/SweetySeelam2](https://github.com/SweetySeelam2)
+
 📊 **Kaggle:** [kaggle.com/sweetyseelam](https://www.kaggle.com/sweetyseelam)  
+
 🧠 **Hugging Face:** [huggingface.co/sweetyseelam](https://huggingface.co/sweetyseelam)
 
 ---
@@ -132,7 +138,9 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ---
 
-🪙 **License:** MIT License © 2025 Sweety Seelam  
+## 🪙 License
+
+** MIT License © 2025 Sweety Seelam                                                      
 📘 *All proprietary assets are protected & credited accordingly.*
 
 ---
