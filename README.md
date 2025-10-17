@@ -138,7 +138,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🪙 License
 
-** MIT License © 2025 Sweety Seelam                                                      
+** MIT License © 2025 Sweety Seelam**                                                                                                                
 📘 *All proprietary assets are protected & credited accordingly.*
 
 ---
