@@ -2,8 +2,6 @@
 
 *Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards*
 
----
-
 ![GitHub Stars](https://img.shields.io/github/stars/SweetySeelam2?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
