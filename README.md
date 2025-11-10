@@ -12,7 +12,6 @@
   <a href="https://www.kaggle.com/sweetyseelam">📊 Kaggle</a>
 </p>
 
-
 ![GitHub Stars](https://img.shields.io/github/stars/SweetySeelam2?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
@@ -27,8 +26,6 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🔥 Featured Projects
 
-
-
 ---
 
 ### 🧩 [ARC Prize Hackathon 2025](https://github.com/SweetySeelam2/ARC_Prize_Hackathon)
@@ -42,6 +39,34 @@ I specialize in **customer analytics, machine learning, and data visualization**
 > Detects **poisoned AI models** by analyzing neural weight distributions.  
 > Uses clean vs. backdoored model contrastive signatures.  
 > 📊 Focus: Model safety, interpretability, and robust AI security.
+
+---
+
+### 🧠 [Red Teaming Challenge – OpenAI GPT-OSS-20B](https://github.com/SweetySeelam2/Red-Teaming-Challenge-OpenAI-gpt-oss-20b)
+> Advanced **AI red teaming project** evaluating GPT-OSS-20B’s robustness.  
+> Explores jailbreak resilience, alignment gaps, and adversarial prompting.  
+> 🧩 Focus: Responsible AI, LLM safety, and real-world misuse prevention.
+
+---
+
+### 💡 [LLM-Based Amazon Recommendation System](https://github.com/SweetySeelam2/LLM_Recommendation_Amazon)
+> Builds an **end-to-end LLM-powered recommendation engine**.  
+> Implements **Retrieve → Rank → Explain** using embeddings, RandomForest + SHAP, and Phi-2.  
+> 🎯 Focus: Personalized recommendations with explainability.
+
+---
+
+### 🎬 [Causal Inference for Amazon Prime Campaigns](https://github.com/SweetySeelam2/Casual_Inference_streamlit)
+> Evaluates **marketing intervention effects** on subscription and engagement.  
+> Uses **causal inference + uplift modeling** to estimate true campaign ROI.  
+> 🧾 Deployed as a **Streamlit dashboard** showcasing causal effects & business impact.
+
+---
+
+### 🛍️ [Amazon Product Image Classification (CNN)](https://github.com/SweetySeelam2/Amazon-CNN-Product-Classification)
+> Classifies Amazon fashion images using **CNN + Transfer Learning (ResNet50, EfficientNet)**.  
+> Includes **explainability (LIME/Grad-CAM)** and Streamlit deployment.  
+> 🧠 Focus: Scalable AI for e-commerce product tagging and categorization.
 
 ---
 
