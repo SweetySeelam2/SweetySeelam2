@@ -26,7 +26,6 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🔥 Featured Projects
 
----
 
 ### 🧩 [ARC Prize Hackathon 2025](https://github.com/SweetySeelam2/ARC_Prize_Hackathon)
 > Cutting-edge **meta-learning** and **abstraction reasoning** challenge.  
@@ -131,7 +130,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 ## 🏆 Hackathons & Recognitions
 
 - 🥇 **Devpost Competitor** – Medi-Hack, GKE, Tableau Next Hackathons  
-- 🧠 **Kaggle Competitor** – ARC Prize, Trojan Horse Hunt  
+- 🧠 **Kaggle Competitor** – ARC Prize, Trojan Horse Hunt, Red-Teaming challenge-OpenAI
 - 🌐 Featured on **Streamlit, Hugging Face, and Power BI Community**
 
 ---
@@ -155,8 +154,6 @@ I specialize in **customer analytics, machine learning, and data visualization**
 ## 📂 Explore More Projects
 
 - [Netflix_Ad-Tier_Strategy_CaseStudy](https://github.com/SweetySeelam2/Netflix_Ad-Tier_Strategy_CaseStudy)  
-- [Amazon-CNN-Product-Classification](https://github.com/SweetySeelam2/Amazon-CNN-Product-Classification)  
-- [Causal-Inference-Dashboard](https://github.com/SweetySeelam2/Causal-Inference-Dashboard)  
 - [Fraud-Detection-Explainability](https://github.com/SweetySeelam2/Fraud-Detection-Explainability)  
 - [Retail_Sales_Forecasting](https://github.com/SweetySeelam2/Retail_Sales_Forecasting)  
 - [Breast-Cancer-Risk-Predictor](https://github.com/SweetySeelam2/Breast-Cancer-Risk-Predictor)
