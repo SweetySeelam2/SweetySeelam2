@@ -27,10 +27,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🔥 Featured Projects
 
-### ✈️ [RevenueCat-Shipaton (CancelSense API)](https://revenuecat-shipaton-production.up.railway.app/)
-> **FastAPI + Random Forest + Hugging Face + Railway Deployment**  
-> Predicts flight cancellation & delay probabilities with explainable AI (SHAP + fallback mode).  
-> 📁 [GitHub Repo](https://github.com/SweetySeelam2/RevenueCat-Shipaton)
+
 
 ---
 
