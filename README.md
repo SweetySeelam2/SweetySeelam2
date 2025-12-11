@@ -3,7 +3,7 @@
 <h3 align="center">Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards</h3>
 
 <p align="center">
-  <a href="[sweetyseelam8@gmail.com](mailto:sweetyseelam8@gmail.com)">📫 Email</a> •
+  <a href="(mailto:sweetyseelam8@gmail.com)">📫 Email</a> •
   <a href="https://sweetyseelam2.github.io/SweetySeelam.github.io/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sweetyrao670/">💼 LinkedIn</a> •
   <a href="https://github.com/SweetySeelam2">💻 Github</a> •
