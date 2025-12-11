@@ -3,7 +3,7 @@
 <h3 align="center">Business Analyst | AI & Machine Learning Enthusiast | Aspiring Data Scientist | Storyteller with SQL + Python + Dashboards</h3>
 
 <p align="center">
-  <a href="sweetyseelam2@gmail.com">📫 Email</a> •
+  <a href="sweetyseelam8@gmail.com">📫 Email</a> •
   <a href="https://sweetyseelam2.github.io/SweetySeelam.github.io/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sweetyrao670/">💼 LinkedIn</a> •
   <a href="https://github.com/SweetySeelam2">💻 Github</a> •
@@ -137,7 +137,7 @@ I specialize in **customer analytics, machine learning, and data visualization**
 
 ## 🤝 Let’s Connect
 
-📫 **Email:** [sweetyseelam2@gmail.com](mailto:sweetyseelam2@gmail.com)  
+📫 **Email:** [sweetyseelam8@gmail.com](mailto:sweetyseelam8@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sweetyrao670](https://www.linkedin.com/in/sweetyrao670/)  
 🌐 **Portfolio:** [sweetyseelam2.github.io/SweetySeelam.github.io](https://sweetyseelam2.github.io/SweetySeelam.github.io/)  
 📰 **Medium:** [medium.com/@sweetyseelam](https://medium.com/@sweetyseelam)  
